@@ -35,8 +35,7 @@ O arquivo `database/crop_yield.csv` contém 156 registros de 4 culturas com as s
 ## Estrutura do Repositório
 
 ```
-database/
-│   └── crop_yield.csv
+├── crop_yield.csv
 ├── DiogoGose_rm566951_pbl_fase5.ipynb   ← Notebook principal
 └── README.md
 ```
