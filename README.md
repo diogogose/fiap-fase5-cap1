@@ -147,3 +147,5 @@ A escolha pela região de São Paulo é justificada pelos seguintes pilares:
 | Custo anual estimado | $168,98 USD |
 | Motivo principal | LGPD + baixa latência para sensores brasileiros |
 
+Video youtube `https://youtu.be/6Ro9F8G6wEI`
+
